@@ -1,7 +1,6 @@
 ---
 layout: post
-title: SDForge 패치노트
-subtitle: SDForge update
+title: SDForge 패치 상황 보기
 tags: [test, markdown]
 comments: true
 ---
