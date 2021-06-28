@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdforge.github.io/sitemap.xml
