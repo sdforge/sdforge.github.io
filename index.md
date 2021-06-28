@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/banner.png
+cover-img: /assets/img/sample001/img001.png
 ---
 
 <br/>
