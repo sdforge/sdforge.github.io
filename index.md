@@ -6,7 +6,7 @@ cover-img: assets/img/sample001/img001.jpg
 
 <br/>
 
-<h2>SDForge 공식 사이트</h2>
+<h2>SDForge 솔루션</h2>
 
 SDForge?
 

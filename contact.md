@@ -118,7 +118,7 @@ title:  상담문의
   <!-- ** 폼 send 후 감사메세지 출력 , 새로고침 없음 : form 태그에 type="submit" 없어야함(버튼으로 따로 생성은 ok)-->
   <div style="display:none" class="thankyou_message" >
     <!-- You can customize the thankyou message by editing the code below -->
-    <h2>문의주셔서 감사합니다. 곧 연락드리겠습니다. </h2>
+    <h2>문의주셔서 감사합니다. 곧 연락드리겠습니다 :) </h2>
   </div>
 </form> <!-- /.form -->
 
