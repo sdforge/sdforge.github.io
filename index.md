@@ -7,7 +7,8 @@ cover-img: /assets/img/banner.png
 
 <h2>SDForge 공식 사이트</h2>
 
-SDForge 
+SDForge?
+
 한국 사용자 커뮤니티는 빅 데이터, IoT, 인공지능과 Pentaho와 관련된 모든것에 관심이 있는 사용자들을 위한 사용자 커뮤니티 입니다.
 <br/>
 페이스북 그룹페이지를 통하여 사용자들과 커뮤니케이션을 나누고 있으며
