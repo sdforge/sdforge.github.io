@@ -80,7 +80,6 @@ title:  CONTACT
 
 
 
-<!-- _config_yml이랑 관련 O-->
 {% if site.contact-subtitle %}
 <h5 class="contact-subtitle">{{ site.contact-subtitle }}</h5>
 <hr>
