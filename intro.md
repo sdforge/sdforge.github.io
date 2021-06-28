@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Pentaho CE 소개 및 설치 과정 안내
+title: SDForge 소개
 ---
 
 <br/>
 
 
-# Pentaho Community Edition 소개
+# SDForge
 
 ### 자바 기반 오픈소스 데이터 처리 솔루션
 #### 유지보수 비용 절감 효과를 기대할 수 있습니다.
