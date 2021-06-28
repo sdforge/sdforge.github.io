@@ -90,19 +90,19 @@ title:  CONTACT
 <form method="POST" data-email = "sdforgesolution@gmail.com" class="gform"
       action="https://script.google.com/macros/s/AKfycbzkcAjBTlSlJKwAbR0e7Sal_QouFB0FLUa2vGv-/exec">
   <div class="gform-group">
-    <label for="form-name"> (* 필수)  이름</label>
+    <label for="form-name">Your Name (Required)</label>
     <input class="form-input" type="text" name="name" id="form-name" required>
   </div>
   <div class="gform-group">
-    <label for="form-email">(* 필수) Email </label>
+    <label for="form-email">Your Email (Required)</label>
     <input class="form-input" type="email" name="_replyto" id="form-email" required>
   </div>
   <div class="gform-group">
-    <label for="form-subject">(* 필수) 문의사항 </label>
-    <input class="form-input" type="text" name="subject" id="form-subject" required>
+    <label for="form-subject">Subject</label>
+    <input class="form-input" type="text" name="subject" id="form-subject">
   </div>
   <div class="gform-group">
-    <label for="form-text">(* 필수) 문의내용 </label>
+    <label for="form-text">Your Message (Required)</label>
     <textarea class="form-textarea" name="text" rows="12" id="form-text" required></textarea>
   </div>
 
@@ -117,7 +117,7 @@ title:  CONTACT
   <!-- ** 폼 send 후 감사메세지 출력 , 새로고침 없음 : form 태그에 type="submit" 없어야함(버튼으로 따로 생성은 ok)-->
   <div style="display:none" class="thankyou_message" >
     <!-- You can customize the thankyou message by editing the code below -->
-    <h2><em>전송에 성공했습니다.</em> 곧 연락드리겠습니다.</h2>
+    <h2><em>Thanks</em> for contacting us! We will get back to you soon!</h2>
   </div>
 </form> <!-- /.form -->
 
