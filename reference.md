@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  문의하기
+title:  상담문의
 ---
 
 
