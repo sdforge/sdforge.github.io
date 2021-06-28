@@ -85,8 +85,8 @@ title:  CONTACT
 <hr>
 {% else %}
 {% endif %}
-<form method="POST" data-email = "volu7070@gmail.com" class="gform"
-      action="https://script.google.com/macros/s/AKfycbwx_wGOd2AI2t5Tht1oqzbofkyKB8SBs5pTHXfn2HJqN53ToEE/exec">
+<form method="POST" data-email = "sdforgesolution@gmail.com" class="gform"
+      action="https://script.google.com/macros/s/AKfycbzkcAjBTlSlJKwAbR0e7Sal_QouFB0FLUa2vGv-/exec">
   <div class="gform-group">
     <label for="form-name">Your Name (Required)</label>
     <input class="form-input" type="text" name="name" id="form-name" required>
