@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SDForge 패치 노트
+title: 2021-06-28 패치
 tags: [test, markdown]
 comments: true
 date:
