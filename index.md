@@ -24,4 +24,3 @@ The Pentaho User Group Korea is a networking group for those interested in big d
 Join the group to discover more about the Pentaho platform, and also to discuss and learn about related technologies.
 
 At the bottom of our site's page, you can find icon, you can enter our Facebook,Github and Youtube by using them
-ㅁㄴㅇㄹ
