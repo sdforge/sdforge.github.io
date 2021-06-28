@@ -13,9 +13,9 @@ author: SDForgeSolution
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  SDForge 소개 : "intro"
-  SDForge 패치노트: "blog"
-  CONTACT: "reference"
+  SDForge 소개 : "info_sdforge"
+    SDForge 패치노트: "patch_note"
+    CONTACT: "CONTACT"
   Facebook: "https://www.facebook.com/groups/935447350325352"
   Github: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io"
   Youtube: "https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew"
@@ -197,7 +197,7 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginatef
   - jekyll-sitemap
 
 # prose.io config
