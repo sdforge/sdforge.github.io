@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ourcoms_workshop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/case/ourcoms_workshop/ourcoms_workshop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

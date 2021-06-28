@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="livingCase">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/case/livingCase1/sample/livingCase.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

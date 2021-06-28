@@ -1,24 +1,26 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Pentaho-User-Group-Korea
+title: SDForgeSolution
 
 # [수정필요] 간단한 사이트 설명
 description: 한국에서 펜타호 CE를 사용하는 사용자들의 그룹입니다.
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Pentaho-User-Community-Korea
+author: SDForgeSolution
+
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Pentaho CE 소개 및 설치 : "intro"
-  커뮤니티 소식: "blog"
-  커뮤니티 자료: "reference"
-  Pentaho 활용 사례: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io/wiki"
+  SDForge 소개 : "intro"
+  SDForge 패치노트: "blog"
+  CONTACT: "reference"
   Facebook: "https://www.facebook.com/groups/935447350325352"
   Github: "https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io"
   Youtube: "https://www.youtube.com/channel/UC2CCUgWfmqLTQ_SFmelJRew"
+
+
 
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
