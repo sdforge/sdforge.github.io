@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  CONTACT
+title:  문의하기
 ---
 
 
@@ -77,6 +77,7 @@ title:  CONTACT
   }
 
 </style>
+
 
 
 
