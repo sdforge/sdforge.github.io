@@ -3,6 +3,7 @@ layout: post
 title: SDForge 패치 노트
 tags: [test, markdown]
 comments: true
+date:
 ---
 
 
