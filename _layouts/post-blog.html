@@ -8,7 +8,7 @@ layout: page
 
 <div class="posts-list">
   {% for post in posts %}
-  {% if post.categories contains 'patch_note' %}
+  {% if post.categories contains 'patch_note' %} <!--url 변경 위해 폴더명 변경 : blog -> patch_note // 변경된 url + post 인식 위해 if문 조건 변경 -->
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
