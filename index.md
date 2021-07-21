@@ -8,19 +8,12 @@ cover-img: assets/img/sample001/img001.jpg
 
 <h2> SDForge 솔루션 </h2>
 
-SDForge?
+No-code/GUI기반 정형/비정형 데이터 통합 솔루션 SDForge
 
-한국 사용자 커뮤니티는 빅 데이터, IoT, 인공지능과 Pentaho와 관련된 모든것에 관심이 있는 사용자들을 위한 사용자 커뮤니티 입니다.
+<h3>코딩 비전문가도 사용할 수 있는 데이터 추출/변환/적재와 시각화까지 일련의 과정을 모두 제공하는 데이터 통합 솔루션</h3>
 <br/>
-페이스북 그룹페이지를 통하여 사용자들과 커뮤니케이션을 나누고 있으며
+- 개발자 및 전문가의 도움 없이도 중소기업이 자체적으로 데이터 추출/변환/적재와 시각화를 GUI 환경에서 처리할 수 있는 데이터 통합 솔루션
 <br/>
-github & Youtube를 통해 펜타호 관련 정보를 공유하고 있습니다.
+<h3>데이터 추출/변환/적재 상황을 단계별로 확인 가능한 시각화 도구</h3>
 <br/>
-펜타호 커뮤니티를 통해 Pentaho 플랫폼에 대해 알아보고 관련 기술에 대한 교류를 마음껏 하시기 바랍니다.
-<br/>
-각 커뮤니티 페이지는 모든 페이지 하단의 아이콘 클릭을 통해 들어가실 수 있습니다.
-
-The Pentaho User Group Korea is a networking group for those interested in big data, IoT, AI and all things Pentaho related.
-Join the group to discover more about the Pentaho platform, and also to discuss and learn about related technologies.
-
-At the bottom of our site's page, you can find icon, you can enter our Facebook,Github and Youtube by using them
+- 데이터 추출/변환/적재 상황을 단계별로 확인할 수 있는 데이터 시각화 도구를 통해 데이터 ETL 진행상황을 쉽게 확인 가능
